@@ -75,4 +75,21 @@
         childForm.Dock = DockStyle.Fill
         childForm.Show()
     End Sub
+
+    Private Sub Ejercicio1ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Ejercicio1ToolStripMenuItem.Click
+        Dim f As Form
+
+        For Each f In Me.MdiChildren
+            If (f.Text = "Listas") Then
+                f.BringToFront()
+                Return
+            End If
+        Next
+
+        Dim childForm As New Listas
+        childForm.Text = "Listas"
+        childForm.MdiParent = Me
+        childForm.Dock = DockStyle.Fill
+        childForm.Show()
+    End Sub
 End Class

@@ -19,3 +19,4 @@ C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual
 C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.Calculos.resources
 C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.ValorYReferencia.resources
 C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.SueldoValorRef.resources
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.Listas.resources

@@ -28,13 +28,15 @@ Partial Class index
         Me.HorasTrabajadasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ValorYReferenciaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.SueldoPorValorYReferenciaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ListasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Ejercicio1ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
         'MenuStrip1
         '
         Me.MenuStrip1.Dock = System.Windows.Forms.DockStyle.Left
-        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.LlamarAForm1ToolStripMenuItem, Me.CálculosToolStripMenuItem})
+        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.LlamarAForm1ToolStripMenuItem, Me.CálculosToolStripMenuItem, Me.ListasToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
         Me.MenuStrip1.Size = New System.Drawing.Size(126, 450)
@@ -73,6 +75,19 @@ Partial Class index
         Me.SueldoPorValorYReferenciaToolStripMenuItem.Size = New System.Drawing.Size(224, 22)
         Me.SueldoPorValorYReferenciaToolStripMenuItem.Text = "Sueldo por valor y referencia"
         '
+        'ListasToolStripMenuItem
+        '
+        Me.ListasToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Ejercicio1ToolStripMenuItem})
+        Me.ListasToolStripMenuItem.Name = "ListasToolStripMenuItem"
+        Me.ListasToolStripMenuItem.Size = New System.Drawing.Size(113, 19)
+        Me.ListasToolStripMenuItem.Text = "Listas"
+        '
+        'Ejercicio1ToolStripMenuItem
+        '
+        Me.Ejercicio1ToolStripMenuItem.Name = "Ejercicio1ToolStripMenuItem"
+        Me.Ejercicio1ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.Ejercicio1ToolStripMenuItem.Text = "ejercicio 1"
+        '
         'index
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
@@ -96,4 +111,6 @@ Partial Class index
     Friend WithEvents HorasTrabajadasToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ValorYReferenciaToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents SueldoPorValorYReferenciaToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents ListasToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Ejercicio1ToolStripMenuItem As ToolStripMenuItem
 End Class
