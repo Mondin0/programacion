@@ -18,7 +18,9 @@
 
     Private Sub Listas_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         txtEemento.MaxLength = 20
-        'listbxElementos.Items.Item(0) = "uno"
-        'listbxElementos.Items.Item("1") = "dos"
+        listbxElementos.Items.Add("ij")
+        MessageBox.Show("ahora cambimos el valor")
+        listbxElementos.Items.Item(0) = "uno"
+        'listbxElementos.Items.Item(1) = "dos"
     End Sub
 End Class

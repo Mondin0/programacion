@@ -4,6 +4,12 @@
     <Compile Update="Calculos.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ArrayEjercicio1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataGridView.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Listas.vb">
       <SubType>Form</SubType>
     </Compile>

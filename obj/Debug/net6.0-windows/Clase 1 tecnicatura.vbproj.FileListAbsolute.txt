@@ -4,6 +4,14 @@ C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual
 C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\bin\Debug\net6.0-windows\Clase 1 tecnicatura.dll
 C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\bin\Debug\net6.0-windows\Clase 1 tecnicatura.pdb
 C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase 1 tecnicatura.vbproj.AssemblyReference.cache
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.ArrayEjercicio1.resources
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.Calculos.resources
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.DataGridView.resources
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.index.resources
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.Listas.resources
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.Saludo.resources
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.SueldoValorRef.resources
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.ValorYReferencia.resources
 C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase 1 tecnicatura.vbproj.GenerateResource.cache
 C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase 1 tecnicatura.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase 1 tecnicatura.AssemblyInfoInputs.cache
@@ -14,9 +22,10 @@ C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual
 C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase 1 tecnicatura.pdb
 C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase 1 tecnicatura.genruntimeconfig.cache
 C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\ref\Clase 1 tecnicatura.dll
-C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.index.resources
-C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.Saludo.resources
-C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.Calculos.resources
-C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.ValorYReferencia.resources
-C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.SueldoValorRef.resources
-C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.Listas.resources
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase 1 tecnicatura.vbproj.CopyComplete

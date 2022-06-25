@@ -30,16 +30,20 @@ Partial Class index
         Me.SueldoPorValorYReferenciaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ListasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Ejercicio1ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ArraysToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Ejercicio1ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.DataGridViewToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Ejercicio1ToolStripMenuItem2 = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
         'MenuStrip1
         '
         Me.MenuStrip1.Dock = System.Windows.Forms.DockStyle.Left
-        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.LlamarAForm1ToolStripMenuItem, Me.CálculosToolStripMenuItem, Me.ListasToolStripMenuItem})
+        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.LlamarAForm1ToolStripMenuItem, Me.CálculosToolStripMenuItem, Me.ListasToolStripMenuItem, Me.ArraysToolStripMenuItem, Me.DataGridViewToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(126, 450)
+        Me.MenuStrip1.Size = New System.Drawing.Size(108, 450)
         Me.MenuStrip1.TabIndex = 0
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -47,14 +51,14 @@ Partial Class index
         '
         Me.LlamarAForm1ToolStripMenuItem.BackColor = System.Drawing.Color.Lime
         Me.LlamarAForm1ToolStripMenuItem.Name = "LlamarAForm1ToolStripMenuItem"
-        Me.LlamarAForm1ToolStripMenuItem.Size = New System.Drawing.Size(113, 19)
+        Me.LlamarAForm1ToolStripMenuItem.Size = New System.Drawing.Size(95, 19)
         Me.LlamarAForm1ToolStripMenuItem.Text = "Llamar a saludo"
         '
         'CálculosToolStripMenuItem
         '
         Me.CálculosToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.HorasTrabajadasToolStripMenuItem, Me.ValorYReferenciaToolStripMenuItem, Me.SueldoPorValorYReferenciaToolStripMenuItem})
         Me.CálculosToolStripMenuItem.Name = "CálculosToolStripMenuItem"
-        Me.CálculosToolStripMenuItem.Size = New System.Drawing.Size(113, 19)
+        Me.CálculosToolStripMenuItem.Size = New System.Drawing.Size(95, 19)
         Me.CálculosToolStripMenuItem.Text = "Cálculos"
         '
         'HorasTrabajadasToolStripMenuItem
@@ -79,14 +83,40 @@ Partial Class index
         '
         Me.ListasToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Ejercicio1ToolStripMenuItem})
         Me.ListasToolStripMenuItem.Name = "ListasToolStripMenuItem"
-        Me.ListasToolStripMenuItem.Size = New System.Drawing.Size(113, 19)
+        Me.ListasToolStripMenuItem.Size = New System.Drawing.Size(95, 19)
         Me.ListasToolStripMenuItem.Text = "Listas"
         '
         'Ejercicio1ToolStripMenuItem
         '
         Me.Ejercicio1ToolStripMenuItem.Name = "Ejercicio1ToolStripMenuItem"
-        Me.Ejercicio1ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.Ejercicio1ToolStripMenuItem.Size = New System.Drawing.Size(127, 22)
         Me.Ejercicio1ToolStripMenuItem.Text = "ejercicio 1"
+        '
+        'ArraysToolStripMenuItem
+        '
+        Me.ArraysToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Ejercicio1ToolStripMenuItem1})
+        Me.ArraysToolStripMenuItem.Name = "ArraysToolStripMenuItem"
+        Me.ArraysToolStripMenuItem.Size = New System.Drawing.Size(95, 19)
+        Me.ArraysToolStripMenuItem.Text = "Arrays"
+        '
+        'Ejercicio1ToolStripMenuItem1
+        '
+        Me.Ejercicio1ToolStripMenuItem1.Name = "Ejercicio1ToolStripMenuItem1"
+        Me.Ejercicio1ToolStripMenuItem1.Size = New System.Drawing.Size(127, 22)
+        Me.Ejercicio1ToolStripMenuItem1.Text = "Ejercicio 1"
+        '
+        'DataGridViewToolStripMenuItem
+        '
+        Me.DataGridViewToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Ejercicio1ToolStripMenuItem2})
+        Me.DataGridViewToolStripMenuItem.Name = "DataGridViewToolStripMenuItem"
+        Me.DataGridViewToolStripMenuItem.Size = New System.Drawing.Size(95, 19)
+        Me.DataGridViewToolStripMenuItem.Text = "Data grid view"
+        '
+        'Ejercicio1ToolStripMenuItem2
+        '
+        Me.Ejercicio1ToolStripMenuItem2.Name = "Ejercicio1ToolStripMenuItem2"
+        Me.Ejercicio1ToolStripMenuItem2.Size = New System.Drawing.Size(127, 22)
+        Me.Ejercicio1ToolStripMenuItem2.Text = "ejercicio 1"
         '
         'index
         '
@@ -113,4 +143,8 @@ Partial Class index
     Friend WithEvents SueldoPorValorYReferenciaToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ListasToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents Ejercicio1ToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents ArraysToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Ejercicio1ToolStripMenuItem1 As ToolStripMenuItem
+    Friend WithEvents DataGridViewToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Ejercicio1ToolStripMenuItem2 As ToolStripMenuItem
 End Class
