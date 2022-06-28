@@ -4,8 +4,7 @@
         Try
             Dim hora As Integer = CInt(txtHorasTrabajadas.Text)
             txtSueldo.Text = calcularSueldo(hora)
-        Catch ex As Exception : MessageBox.Show(ex.Message)
-
+        Catch ex As Exception : MessageBox.Show(ex.Message, "Atención loko", MessageBoxButtons.OK)
         End Try
     End Sub
 
