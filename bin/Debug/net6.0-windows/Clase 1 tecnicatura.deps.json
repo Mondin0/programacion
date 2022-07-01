@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v6.0": {
       "Clase 1 tecnicatura/1.0.0": {
         "dependencies": {
+          "Microsoft.ApplicationBlocks.Data": "2.0.0",
           "System.Data.SqlClient": "4.8.3"
         },
         "runtime": {
           "Clase 1 tecnicatura.dll": {}
+        }
+      },
+      "Microsoft.ApplicationBlocks.Data/2.0.0": {
+        "runtime": {
+          "lib/net45/Microsoft.ApplicationBlocks.Data.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/3.1.0": {},
@@ -96,6 +105,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.ApplicationBlocks.Data/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xb8f7UjhLC1kDJKtk39Ara0dQ5ytZ4p2cF94KQ4ZBABTnqUcvpmX2QOp63vqY4LUN4rXa8QNg3vUJ9QOkUqA4w==",
+      "path": "microsoft.applicationblocks.data/2.0.0",
+      "hashPath": "microsoft.applicationblocks.data.2.0.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/3.1.0": {
       "type": "package",

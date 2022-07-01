@@ -6,6 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
+      "Microsoft.ApplicationBlocks.Data/2.0.0": {
+        "runtime": {
+          "lib/net45/Microsoft.ApplicationBlocks.Data.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
       "Microsoft.NETCore.Platforms/3.1.0": {},
       "Microsoft.Win32.Registry/4.7.0": {
         "dependencies": {
@@ -139,6 +147,13 @@
     }
   },
   "libraries": {
+    "Microsoft.ApplicationBlocks.Data/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xb8f7UjhLC1kDJKtk39Ara0dQ5ytZ4p2cF94KQ4ZBABTnqUcvpmX2QOp63vqY4LUN4rXa8QNg3vUJ9QOkUqA4w==",
+      "path": "microsoft.applicationblocks.data/2.0.0",
+      "hashPath": "microsoft.applicationblocks.data.2.0.0.nupkg.sha512"
+    },
     "Microsoft.NETCore.Platforms/3.1.0": {
       "type": "package",
       "serviceable": true,

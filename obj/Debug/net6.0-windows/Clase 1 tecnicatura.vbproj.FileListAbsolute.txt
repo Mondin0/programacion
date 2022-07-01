@@ -29,3 +29,5 @@ C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual
 C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase 1 tecnicatura.vbproj.CopyComplete
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\bin\Debug\net6.0-windows\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\gabmo\Desktop\tecnicatura software\2do_año\programacion\clase 1\visual basic\Clase 1 tecnicatura\obj\Debug\net6.0-windows\Clase_1_tecnicatura.Cliente.resources

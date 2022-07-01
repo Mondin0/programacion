@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "W5MLG1EiULx8961pXl1eMUwJCnMmXRDkJS6lyWBQuhSRsRbyCpkdiuZeoKOFtm3qWErhyUJUv+Gm9NlybRhVJA==",
+  "dgSpecHash": "iR0cNNOTv3xFsyQrta034j5eMvzSazw5c8mxSaXEYOSkD1TAHyrj5FkrGm8Gz4krQjXSGwe5Vgzo5kBeszxxSg==",
   "success": true,
   "projectFilePath": "C:\\Users\\gabmo\\Desktop\\tecnicatura software\\2do_año\\programacion\\clase 1\\visual basic\\Clase 1 tecnicatura\\Clase 1 tecnicatura.vbproj",
   "expectedPackageFiles": [
+    "C:\\Users\\gabmo\\.nuget\\packages\\microsoft.applicationblocks.data\\2.0.0\\microsoft.applicationblocks.data.2.0.0.nupkg.sha512",
     "C:\\Users\\gabmo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\gabmo\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\gabmo\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
@@ -14,5 +15,16 @@
     "C:\\Users\\gabmo\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\gabmo\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Microsoft.ApplicationBlocks.Data 2.0.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net6.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Microsoft.ApplicationBlocks.Data",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }

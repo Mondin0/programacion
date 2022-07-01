@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net6.0-windows7.0": {
+      "Microsoft.ApplicationBlocks.Data/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.ApplicationBlocks.Data.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.ApplicationBlocks.Data.dll": {}
+        }
+      },
       "Microsoft.NETCore.Platforms/3.1.0": {
         "type": "package",
         "compile": {
@@ -134,6 +143,22 @@
     }
   },
   "libraries": {
+    "Microsoft.ApplicationBlocks.Data/2.0.0": {
+      "sha512": "xb8f7UjhLC1kDJKtk39Ara0dQ5ytZ4p2cF94KQ4ZBABTnqUcvpmX2QOp63vqY4LUN4rXa8QNg3vUJ9QOkUqA4w==",
+      "type": "package",
+      "path": "microsoft.applicationblocks.data/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Microsoft.ApplicationBlocks.Data.dll",
+        "lib/net30/Microsoft.ApplicationBlocks.Data.dll",
+        "lib/net35/Microsoft.ApplicationBlocks.Data.dll",
+        "lib/net40/Microsoft.ApplicationBlocks.Data.dll",
+        "lib/net45/Microsoft.ApplicationBlocks.Data.dll",
+        "microsoft.applicationblocks.data.2.0.0.nupkg.sha512",
+        "microsoft.applicationblocks.data.nuspec"
+      ]
+    },
     "Microsoft.NETCore.Platforms/3.1.0": {
       "sha512": "z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
       "type": "package",
@@ -450,6 +475,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
+      "Microsoft.ApplicationBlocks.Data >= 2.0.0",
       "System.Data.SqlClient >= 4.8.3"
     ]
   },
@@ -497,6 +523,10 @@
       "net6.0-windows7.0": {
         "targetAlias": "net6.0-windows",
         "dependencies": {
+          "Microsoft.ApplicationBlocks.Data": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
           "System.Data.SqlClient": {
             "target": "Package",
             "version": "[4.8.3, )"
@@ -523,5 +553,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Microsoft.ApplicationBlocks.Data 2.0.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net6.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Microsoft.ApplicationBlocks.Data",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }
