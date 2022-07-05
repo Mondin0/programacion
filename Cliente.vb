@@ -2,7 +2,7 @@
 Imports System.Data.SqlClient
 Imports Microsoft.ApplicationBlocks.Data
 
-Public Class Cliente
+Public Class ClienteE
     Public f As New DataGridView
     Dim msj As DialogResult
     Dim query As String = ""
